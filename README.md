@@ -30,3 +30,6 @@ Este repositório documenta meu segundo cérebro, criado como parte de meu proce
 
 *Jornada de aprendizagem
 Este projeto será atualizado conforme novos conhecimentos forem adquiridos. A intenção é transformar o repositório em uma base de conhecimento pessoal que possa crescer junto com minha formação em Análise e Desenvolvimento de Sistemas.
+
+ACESSO AO MEU SEGUNDO CERÉBRO
+https://notebook.google.com/notebook/d068cada-bae4-420a-8644-02fa43cfabb1
